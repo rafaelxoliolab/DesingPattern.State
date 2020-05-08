@@ -2,7 +2,7 @@
 Simple example of the State Pattern implementation with C#.
 
 ## Definition
-The State design pattern allos an object to change its own behavior when its internal state changes.
+The State design pattern allows an object to change its own behavior when its internal state changes.
 
 <dl>
   <dt>Context</dt>
